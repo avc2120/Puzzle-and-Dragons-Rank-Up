@@ -241,11 +241,11 @@ Fountain of Recreation	14	7	19000	4267	1358	305
 Shining Hill	14	7	20500	4078	1465	292	
 Paradise of Beauty and Love	14	7	16790	4147	1200	297	
 Talos's Abyss
-Darkness, Death and Despair	16	10	19500	4663	1219	292	Sapphire  Dub-amelit
-Annihilator of the Void	13	7	12000	3225	924	249	Sapphire  Dub-amelit
-Fallen  Knight	13	7	12125	3086	933	238	Sapphire  Dub-amelit
-Glimpse of Death	13	7	15125	2999	1164	231	Sapphire  Dub-amelit
-Moon in the Abyss	13	7	11750	3419	904	263	Sapphire  Dub-amelit
+Darkness, Death and Despair	16	10	19500	4663	1219	292
+Annihilator of the Void	13	7	12000	3225	924	249
+Fallen  Knight	13	7	12125	3086	933	238
+Glimpse of Death	13	7	15125	2999	1164	231
+Moon in the Abyss	13	7	11750	3419	904	263
 Aither Desert
 Genie of the Lamp	16	10	20750	4816	1297	301	  
 Guards of the Light	13	7	12000	3321	924	256	 	
@@ -259,23 +259,23 @@ Knight Embraced by Phoenix	13	7	11750	3009	904	232
 Eyes Burning with Anger	13	7	14750	2815	1135	217	  
 Flame-Devouring Dragon 	13	7	13625	3177	1049	245	  
 Creek of Neleus
-Envoy of Poseidon	16	10	21000	4595	1313	288	Sapphire  Dub-sapphilit
-Guardian of the Creek	13	7	11750	3019	904	233	Sapphire  Dub-sapphilit
-Hunter at the Seaside	13	7	11250	2971	866	229	Sapphire  Dub-sapphilit
-Temptation of the  Fairies	13	7	11250	2710	866	209	Sapphire  Dub-sapphilit
-Sea  of the Creek	13	7	11750	3189	904	246	Sapphire  Dub-sapphilit
+Envoy of Poseidon	16	10	21000	4595	1313	288	
+Guardian of the Creek	13	7	11750	3019	904	233	
+Hunter at the Seaside	13	7	11250	2971	866	229	
+Temptation of the  Fairies	13	7	11250	2710	866	209	
+Sea  of the Creek	13	7	11750	3189	904	246	
 Hypno Forest
-Ruler of the Winds and Clouds	16	10	22500	4575	1407	286	Emerald  Dub-emelit
-Green Giant	13	7	11500	3095	885	239	Emerald  Dub-emelit
-Ancient  Warrior	13	7	13750	2949	1058	227	Emerald  Dub-emelit
-Wind Fairies	13	7	11500	2752	885	212	Emerald  Dub-emelit
-Flower  of the Forest	13	7	11250	2989	866	230	Emerald  Dub-emelit
+Ruler of the Winds and Clouds	16	10	22500	4575	1407	286
+Green Giant	13	7	11500	3095	885	239
+Ancient  Warrior	13	7	13750	2949	1058	227
+Wind Fairies	13	7	11500	2752	885	212
+Flower  of the Forest	13	7	11250	2989	866	230
 Temple of Trailokya	
-Dragon of Trailokya	16	10	22250	5195	1391	325	    Emerald  Sapphire   Mystic Mask
-Door to Trailokya	13	7	16250	3592	1250	277	    Emerald  Sapphire   Mystic Mask
-Wild Dance of the Three Beasts	13	7	18000	3574	1385	275	    Emerald  Sapphire   Mystic Mask	
-Waltz of Maidens	13	7	18500	3292	1424	254	    Emerald  Sapphire   Mystic Mask	
-Jewels of Three Colors	13	7	16250	3350	1250	258	    Emerald  Sapphire   Mystic Mask
+Dragon of Trailokya	16	10	22250	5195	1391	325	   
+Door to Trailokya	13	7	16250	3592	1250	277	   
+Wild Dance of the Three Beasts	13	7	18000	3574	1385	275	   	
+Waltz of Maidens	13	7	18500	3292	1424	254	   	
+Jewels of Three Colors	13	7	16250	3350	1250	258	   
 Shrine of Blazing Woods	
 Fire Toydragon of the Shrine	15	10	18000	4325	1200	289		
 Toynasaurs in the Way	12	7	17500	2846	1459	238		
@@ -295,11 +295,11 @@ Water Flower Beasts	12	7	9750	3143	813	262
 Flower Fairies	12	7	11500	3085	959	258	
 Twin Jewels of  and 	12	7	12750	3186	1063	266	
 Castle of Satan in the Abyss
-Return of the Dark King	15	10	22000	4148	1467	277	 King Metal Mythlit
-Dragon Puppets	12	7	16500	2706	1375	226	 King Metal Mythlit
-Guardian of the Doorway	12	7	11500	2925	959	244	 King Metal Mythlit
-Bloody Scales Over Soft Skin	12	7	12250	3042	1021	254	 King Metal Mythlit
-Cursed Jewels	12	7	12000	3087	1000	258	 King Metal Mythlit
+Return of the Dark King	15	10	22000	4148	1467	277	 
+Dragon Puppets	12	7	16500	2706	1375	226	 
+Guardian of the Doorway	12	7	11500	2925	959	244	
+Bloody Scales Over Soft Skin	12	7	12250	3042	1021	254	 
+Cursed Jewels	12	7	12000	3087	1000	258	 
 Twilight Woods
 Eternal Nightmare	14	10	16500	3900	1179	279	 
 Droll  from a Book	11	7	10000	2574	910	234	 
