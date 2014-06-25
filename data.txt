@@ -202,3 +202,131 @@ Queen of the Gods	14	7	42016	8916	3001	637	251i181i
 King of the Gods	17	10	69220	13924	4072	819	251i181i
 Legendary Earth
 Celestial Black Dragon	99	5	1263	25154	13	254
+Paradise of the Holy Beasts	
+Kouryu of the Celestial Pole	99	8	135890	22079	1373	224	
+Mythic Stone  Cave
+Rainbow Stone Magic 40	7	45000	13125	1125	329	
+Purple Stone Steel 40	7	45000	13857	1125	347	
+Scarlet Stone Blade 40	7	45000	14003	1125	351	
+Green Stone Steadfast 40	7	45000	13719	1125	343	
+Blue Stone Aerial 40	7	45000	13358	1125	334	
+Tower of Blazing  - Only / No Fr
+Sword of Beauty	16	10	39044	2100	2441	132	
+The Plan of the Wicked 13	7	24603	898	1893	70
+Knight of Blazing Wings	13	7	32397	1725	2493	133	
+Flame of Hatred	13	7	22000	1225	1693	95	
+Blazing Great Wings	13	7	19500	841	1500	65	
+Tower of Ice  - Only / No Wt
+Lance that Split the Ocean	16	10	43500	2110	2719	132	
+Spirit of Blaze	13	7	14750	1058	1135	82	
+Knights of Divine Might	13	7	15000	1731	1154	134	
+Corridor of the  Mirror	13	7	14750	1325	1135	102	
+Creeping Evil Hand	13	7	14200	873	1093	68	
+Tower of Windy s - Only / No Wd
+Flowers Falling in the Wild Wind	16	10	48750	2092	3047	131	
+Wise Horse with  Shield	13	7	14500	905	1116	70	
+Storm Lancers	13	7	22250	1775	1712	137	
+Storm Corridor	13	7	17250	1239	1327	96	
+Storm Claws	13	7	21700	870	1670	67	
+Forbidden Tower - No L. Skill
+Master of the Seal	15	10	21250	3334	1417	223	
+Door of Light and Shadow	12	7	16250	2136	1355	178	
+Door of Flame	12	7	10500	2722	875	227	
+Door of Ice	12	7	10400	2636	867	220	
+Door of Wood	12	7	12800	2576	1067	215	
+Hill of Iris's Rainbow
+Goddess in Paradise	17	10	30000	6723	1765	396	
+Guardian of the Goddess	14	7	20250	4088	1447	292		
+Fountain of Recreation	14	7	19000	4267	1358	305	
+Shining Hill	14	7	20500	4078	1465	292	
+Paradise of Beauty and Love	14	7	16790	4147	1200	297	
+Talos's Abyss
+Darkness, Death and Despair	16	10	19500	4663	1219	292	Sapphire  Dub-amelit
+Annihilator of the Void	13	7	12000	3225	924	249	Sapphire  Dub-amelit
+Fallen  Knight	13	7	12125	3086	933	238	Sapphire  Dub-amelit
+Glimpse of Death	13	7	15125	2999	1164	231	Sapphire  Dub-amelit
+Moon in the Abyss	13	7	11750	3419	904	263	Sapphire  Dub-amelit
+Aither Desert
+Genie of the Lamp	16	10	20750	4816	1297	301	  
+Guards of the Light	13	7	12000	3321	924	256	 	
+Temple Under the Desert	13	7	12500	3288	962	253	  
+Beyond the Desert	13	7	11950	2930	920	226	  
+Hunter in the Desert	13	7	11000	3419	847	263	  
+Hemera Volcanic Belt
+Incarnation of Blazing Anger	16	10	17250	4420	1079	277
+Fire! Fire!! Fire!!!	13	7	13750	3037	1058	234	  
+Knight Embraced by Phoenix	13	7	11750	3009	904	232	  
+Eyes Burning with Anger	13	7	14750	2815	1135	217	  
+Flame-Devouring Dragon 	13	7	13625	3177	1049	245	  
+Creek of Neleus
+Envoy of Poseidon	16	10	21000	4595	1313	288	Sapphire  Dub-sapphilit
+Guardian of the Creek	13	7	11750	3019	904	233	Sapphire  Dub-sapphilit
+Hunter at the Seaside	13	7	11250	2971	866	229	Sapphire  Dub-sapphilit
+Temptation of the  Fairies	13	7	11250	2710	866	209	Sapphire  Dub-sapphilit
+Sea  of the Creek	13	7	11750	3189	904	246	Sapphire  Dub-sapphilit
+Hypno Forest
+Ruler of the Winds and Clouds	16	10	22500	4575	1407	286	Emerald  Dub-emelit
+Green Giant	13	7	11500	3095	885	239	Emerald  Dub-emelit
+Ancient  Warrior	13	7	13750	2949	1058	227	Emerald  Dub-emelit
+Wind Fairies	13	7	11500	2752	885	212	Emerald  Dub-emelit
+Flower  of the Forest	13	7	11250	2989	866	230	Emerald  Dub-emelit
+Temple of Trailokya	
+Dragon of Trailokya	16	10	22250	5195	1391	325	    Emerald  Sapphire   Mystic Mask
+Door to Trailokya	13	7	16250	3592	1250	277	    Emerald  Sapphire   Mystic Mask
+Wild Dance of the Three Beasts	13	7	18000	3574	1385	275	    Emerald  Sapphire   Mystic Mask	
+Waltz of Maidens	13	7	18500	3292	1424	254	    Emerald  Sapphire   Mystic Mask	
+Jewels of Three Colors	13	7	16250	3350	1250	258	    Emerald  Sapphire   Mystic Mask
+Shrine of Blazing Woods	
+Fire Toydragon of the Shrine	15	10	18000	4325	1200	289		
+Toynasaurs in the Way	12	7	17500	2846	1459	238		
+Twin Beasts of  and 	12	7	11000	3148	917	263		
+Fire Serpent	12	7	11750	3172	980	265		
+Twin Jewels of  and 	12	7	11750	3137	980	262	
+Shrine of Liquid Flame
+Waterdragon of the Shrine	15	10	20000	4057	1334	271	
+Twin  Toys	12	7	13000	2841	1084	237	
+Twin Beasts of  and 	12	7	11250	3081	938	257	
+Singing Mermaid	12	7	11750	3145	980	263	
+Twin Jewels of  and 	12	7	13500	3061	1125	256	
+Shrine of Greens
+Fort of the Shrine	15	10	16250	4488	1084	300	
+Room of Twin Fish	12	7	13500	2863	1125	239	
+Water Flower Beasts	12	7	9750	3143	813	262	
+Flower Fairies	12	7	11500	3085	959	258	
+Twin Jewels of  and 	12	7	12750	3186	1063	266	
+Castle of Satan in the Abyss
+Return of the Dark King	15	10	22000	4148	1467	277	 King Metal Mythlit
+Dragon Puppets	12	7	16500	2706	1375	226	 King Metal Mythlit
+Guardian of the Doorway	12	7	11500	2925	959	244	 King Metal Mythlit
+Bloody Scales Over Soft Skin	12	7	12250	3042	1021	254	 King Metal Mythlit
+Cursed Jewels	12	7	12000	3087	1000	258	 King Metal Mythlit
+Twilight Woods
+Eternal Nightmare	14	10	16500	3900	1179	279	 
+Droll  from a Book	11	7	10000	2574	910	234	 
+Hell Beasts in the Foggy Night	11	7	9307	2445	847	223	 
+Witch in the Woods	11	7	10500	2706	955	246	 
+Tempting Purple Crystal of Death	11	7	9250	2670	841	243	 
+Faithless Temple with No Name
+Holy  Guarding Ruins	14	10	11500	3761	822	269	
+Innocent Attack	11	7	9000	2591	819	236	
+Roar of the Thunder Beast	11	7	8500	2380	773	217	
+Stray Wings	11	7	10750	2717	978	247	
+Forgotten Treasure	11	7	10000	2590	910	236	
+Blazing way
+Blazing Toy	13	10	10750	2840	827	219	 
+Blazing Play	10	7	10500	1935	1050	194	 
+Noble Lion	10	7	8750	1949	875	195	 
+Red Road and Red Serpent	10	7	9250	1970	925	197	 
+Road Dyed with Blood	10	7	9250	1894	925	190	 
+Ice Maze
+The Cruncher	13	10	10750	2772	827	214	    
+Imminent Fang	10	7	10500	1833	1050	184	    
+Beautiful Beast	10	7	8000	1835	800	184	    
+Diva in the Ice Prison	10	7	8750	1993	875	200	    
+Silver Labyrinth	10	7	9750	1842	975	185	    
+Fertile Land
+Fort of the Land	13	10	12750	2783	981	215	    
+Ceratopsian way	10	7	8500	1816	850	182	    
+Beast Princess in the s	10	7	8000	1830	800	183	    
+Sunshine Through the s	10	7	9000	2312	900	232	    
+New Journey	10	7	9750	1815	975	182
