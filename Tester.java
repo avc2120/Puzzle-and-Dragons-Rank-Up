@@ -32,11 +32,6 @@ public class Tester {
 				{
 					askAgain = false;
 				}
-				else
-				{
-					System.out.println("Invalid Input");
-				}
-					
 			}
 		}
 	}
