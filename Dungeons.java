@@ -5,19 +5,25 @@ import java.util.Collections;
 import java.util.Scanner;
 public class Dungeons {
 	private ArrayList<Dungeon> myDungeons;
+	private ArrayList<String> possibleDungeons;
 	private Scanner scan;
 	private String[] line;
 	private String dungType;
+	private int count;
 	public Dungeons()
 	{
 		myDungeons = new ArrayList<Dungeon>();
 	}
 
-	public void addAll() //Adds all Dungeons
+	public boolean addAll(String name, String filename) //Adds all Dungeons
 	{
+		count = 0;
+		possibleDungeons = new ArrayList<String>();
+		boolean add = true;
+		boolean found = false;
 		try
 		{
-			scan = new Scanner(new File("data.txt")); 
+			scan = new Scanner(new File(filename)); 
 		}
 		catch (FileNotFoundException e)
 		{
@@ -26,12 +32,31 @@ public class Dungeons {
 		while (scan.hasNextLine())
 		{
 			line = scan.nextLine().split("\t");
+			if(line[0].toLowerCase().contains(name.toLowerCase()) ==true)
+			{
+				add = false;
+				if(!line[0].toLowerCase().equals(name.toLowerCase()))
+				{
+					found = true;
+					System.out.println("Did you mean: " + "[" + count + "] "+ line[0]);
+					possibleDungeons.add(line[0]);
+					count++;
+				}				
+			}
 			if(line.length == 1)
 				dungType = line[0];
-			else
+			else if (line.length > 1 && add == true)
 				myDungeons.add(new Dungeon(line[0], line[1], line[4], dungType));
-
 		}
+		if(possibleDungeons.size() > 0)
+		{
+			System.out.println("Select correct dungeon from above");
+			Scanner scan = new Scanner(System.in);
+			int answer = scan.nextInt();
+			myDungeons.clear();
+			addAll(line[answer], filename);
+		}
+		return found;
 	}
 	public void printAll() //Prints all Dungeons
 	{
