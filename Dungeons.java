@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 public class Dungeons {
 	private ArrayList<Dungeon> myDungeons;
+	private ArrayList<Dungeon> finalDungeons;
 	private ArrayList<String> possibleDungeons;
 	private Scanner scan;
 	private String[] line;
@@ -13,6 +14,7 @@ public class Dungeons {
 	public Dungeons()
 	{
 		myDungeons = new ArrayList<Dungeon>();
+		finalDungeons = new ArrayList<Dungeon>();
 	}
 
 	public boolean addAll(String name, String filename) //Adds all Dungeons
@@ -60,10 +62,10 @@ public class Dungeons {
 	}
 	public void printAll() //Prints all Dungeons
 	{
-		Collections.sort(myDungeons);
-		for(int i = 0; i < myDungeons.size(); i++)
+		Collections.sort(finalDungeons);
+		for(int i = 0; i < finalDungeons.size(); i++)
 		{
-			System.out.println(myDungeons.get(i).toString());
+			System.out.println(finalDungeons.get(i).toString());
 		}
 	}
 
@@ -113,9 +115,6 @@ public class Dungeons {
 			finalList.get(k).toString();
 		}
 		myDungeons = finalList;
-		/*System.out.print("Available Dungeons: \n");
-		this.printAll();
-		System.out.println();*/
 	}
 
 
@@ -143,9 +142,7 @@ public class Dungeons {
 				stam.add(0);
 			}
 		}
-
 		optimize(exp, stam);
-
 	}
 	public void optimize(ArrayList<Integer> exp, ArrayList<Integer> stamina)
 	{
@@ -179,7 +176,6 @@ public class Dungeons {
 			r.set(i,q);
 			r3.set(i,q1);
 		}
-		//System.out.println(r3);
 		String[] last = r3.get(r3.size()-1).split(" ");
 		for(int k = 0; k < myDungeons.size(); k++)
 		{
@@ -191,15 +187,14 @@ public class Dungeons {
 				}
 			}
 		}
-		myDungeons = r2;
-		this.printAll();
+		finalDungeons = r2;
 	}
 
 
 	public int getTotalExp() //Returns total Exp in available Dungeons
 	{
 		int count = 0;
-		for(Dungeon dung: myDungeons)
+		for(Dungeon dung: finalDungeons)
 		{
 			count += dung.getExp();
 		}
@@ -209,7 +204,7 @@ public class Dungeons {
 	public int getTotalStamina() //Returns total Stamina in available Dungeons
 	{
 		int count = 0;
-		for(Dungeon dung: myDungeons)
+		for(Dungeon dung: finalDungeons)
 		{
 			count += dung.getStamina();
 		}

@@ -40,7 +40,7 @@ public class Tester {
 					again1 = false;
 				}
 			}
-			System.out.println("\nPlay Again? y or n");
+			System.out.println("Play Again? y or n");
 			boolean askAgain = true;
 			while(askAgain)
 			{
@@ -62,11 +62,21 @@ public class Tester {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter Stamina:");
 		int stamina = scan.nextInt();
+		System.out.println("Enter Exp:");
+		int exp = scan.nextInt();
 		Game.setStamina(stamina);
 		Game.eliminate(stamina);
-		Game.dynamic(stamina);
-		System.out.println("\nTotal Exp Gained: " + Game.getTotalExp());
-		System.out.println("Total Stamina Used: " + Game.getTotalStamina());
-		System.out.println("Stamina Left: " + (stamina - Game.getTotalStamina()));
+		for(int i = 2; i <=stamina; i++)
+		{
+
+			Game.dynamic(i);
+			if(Game.getTotalExp() >= exp)
+			{
+				Game.printAll();
+				System.out.println("\nTotal Exp Gained: " + Game.getTotalExp());
+				System.out.println("Total Stamina Used: " + Game.getTotalStamina());
+				System.out.println("Stamina Left: " + (stamina - Game.getTotalStamina()) + "\n");
+			}
+		}
 	}
 }
