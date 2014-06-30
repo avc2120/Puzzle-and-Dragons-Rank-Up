@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 public class Tester {
 	public static void main(String[] args)
@@ -60,22 +61,25 @@ public class Tester {
 	public static void runGame(Dungeons Game)
 	{
 		Scanner scan = new Scanner(System.in);
+		ArrayList<Integer> used = new ArrayList<Integer>();
 		System.out.println("Enter Stamina:");
 		int stamina = scan.nextInt();
 		System.out.println("Enter Exp:");
 		int exp = scan.nextInt();
 		Game.setStamina(stamina);
 		Game.eliminate(stamina);
+		System.out.println("--------------------------------------------------------------");
 		for(int i = 2; i <=stamina; i++)
 		{
-
 			Game.dynamic(i);
-			if(Game.getTotalExp() >= exp)
+			if(Game.getTotalExp() >= exp && !used.contains(Game.getTotalExp()))
 			{
 				Game.printAll();
 				System.out.println("\nTotal Exp Gained: " + Game.getTotalExp());
+				used.add(Game.getTotalExp());
 				System.out.println("Total Stamina Used: " + Game.getTotalStamina());
-				System.out.println("Stamina Left: " + (stamina - Game.getTotalStamina()) + "\n");
+				System.out.println("Stamina Left: " + (stamina - Game.getTotalStamina()) 
+						+ "\n--------------------------------------------------------------");
 			}
 		}
 	}
