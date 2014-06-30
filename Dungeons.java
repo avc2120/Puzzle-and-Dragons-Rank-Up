@@ -19,7 +19,7 @@ public class Dungeons {
 	{
 		count = 0;
 		possibleDungeons = new ArrayList<String>();
-		boolean add = true;
+		boolean add = false;
 		boolean found = false;
 		try
 		{
@@ -32,9 +32,9 @@ public class Dungeons {
 		while (scan.hasNextLine())
 		{
 			line = scan.nextLine().split("\t");
-			if(line[0].toLowerCase().contains(name.toLowerCase()) ==true)
+			if(line[0].toLowerCase().contains(name.toLowerCase()) == true)
 			{
-				add = false;
+				add = true;
 				if(!line[0].toLowerCase().equals(name.toLowerCase()))
 				{
 					found = true;
@@ -92,7 +92,7 @@ public class Dungeons {
 	public void eliminate(int stamina) //Eliminates all dungeons of same stamina with lower exp
 	{
 		ArrayList<Dungeon> finalList = new ArrayList<Dungeon>();
-		for(int i = 0; i < stamina; i++)
+		for(int i = 1; i <=stamina; i++)
 		{
 			ArrayList<Dungeon> result = new ArrayList<Dungeon>();
 			for(int j = 0; j < myDungeons.size(); j++)
@@ -123,7 +123,9 @@ public class Dungeons {
 	{
 		ArrayList<Integer> exp = new ArrayList<Integer>();
 		ArrayList<Integer> stam = new ArrayList<Integer>();
-		for(int i = 0; i < stamina; i++)
+		exp.add(0);
+		stam.add(0);
+		for(int i = 1; i <= stamina; i++)
 		{
 			boolean write = false;
 			for(int j = 0; j < myDungeons.size(); j++)
@@ -157,7 +159,6 @@ public class Dungeons {
 			r3.add("0");
 			r.add(0);
 		}
-
 		for (int i = 0; i < exp.size(); i++)
 		{
 			int q = 0;
